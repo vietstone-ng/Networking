@@ -21,7 +21,7 @@ s.license          = 'MIT'
 s.author           = { "Elvis Nuñez" => "elvisnunez@me.com" }
 s.source           = { git: "https://github.com/3lvis/Networking.git", tag: s.version.to_s }
 s.social_media_url = 'https://twitter.com/3lvis'
-s.ios.deployment_target = '11.0'
+s.ios.deployment_target = '9.0'
 s.osx.deployment_target = '10.15'
 s.watchos.deployment_target = '5.0'
 s.tvos.deployment_target = '11.0'
